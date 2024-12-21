@@ -1,2 +1,2 @@
 # ShapeJam
-A WebGL YouTube Music written in TypeScript
+A WebGL YouTube Music Visualizer
